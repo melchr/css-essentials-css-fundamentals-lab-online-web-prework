@@ -11,5 +11,8 @@ img {
 }
 p#featured_property {
   width: 800px;
+  text-align: center;
 }
-figcaption {
+figure figcaption {
+  font-size: 11px;
+  text-align: center;
