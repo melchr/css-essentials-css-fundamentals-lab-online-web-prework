@@ -9,3 +9,6 @@ h1 {
 img {
   margin: auto;
 }
+p#featured_property {
+  width: 800px;
+}
