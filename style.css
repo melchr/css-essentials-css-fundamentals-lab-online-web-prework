@@ -16,3 +16,12 @@ p#featured_property {
 figure figcaption {
   font-size: 11px;
   text-align: center;
+}
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color:#122;
+}
+#details {
+  display: block;
+}
