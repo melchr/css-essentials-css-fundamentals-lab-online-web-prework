@@ -27,4 +27,7 @@ section#details {
 }
 section#details div {
   float: left;
+  background-color: #000;
+  text-align: center;
+  width: 25%;
 }
