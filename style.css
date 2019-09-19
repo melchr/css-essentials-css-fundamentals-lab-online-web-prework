@@ -22,6 +22,9 @@ nav a {
   padding-right: 10px;
   background-color:#122;
 }
-#details {
+section#details {
   display: block;
+}
+section#details div {
+  float: left;
 }
